@@ -14,22 +14,22 @@
                 "id": "site-drapeau",
                 "title": "Site du Drapeau",
                 "name": "Drapeau",
-                "url": "",
+                "url": "https://flag.dirtybiologistan.com",
                 "descr": "Le site n'est pas opérationnel"
             },
             {
                 "id": "site-stats",
                 "title": "Site de Statistiques",
                 "name": "Statistiques",
-                "url": "",
+                "url": "https://stats.dirtybiologistan.com",
                 "descr": "Le site n'est pas opérationnel"
             },
             {
-                "id": "site-gouv",
-                "title": "Site du Gouvernement",
-                "name": "Gouvernement",
-                "url": "",
-                "descr": "Le site n'est pas opérationnel"
+                "id": "site-discords",
+                "title": "Site listant les serveurs discord",
+                "name": "Discords",
+                "url": "https://discords.dirtybiologistan.com",
+                "descr": "Vous trouverez sur ce site la liste des serveurs discords liés à la micro-nation."
             }
         ]
     },
