@@ -1,0 +1,66 @@
+{
+    "sites": {
+        "id": "websites",
+        "title": "Sites Web",
+        "content": [
+            {
+                "id": "site-oru",
+                "title": "Site de l'ORU",
+                "name": "ORU",
+                "url": "https://oru.dirtybiologistan.com",
+                "descr": "Aujourd’hui, le but de l’ORU est de coordonner les territoires, tant dans le dialogue lors de conflits que dans la transmission d’informations. L’ORU est pour les citoyens, par le biais des territoires. L’ORU va donc aider à transmettre les informations facilement grâce aux représentants en ce qui concerne la politique et grâce à des salons pour tous les événements."
+            },
+            {
+                "id": "site-drapeau",
+                "title": "Site du Drapeau",
+                "name": "Drapeau",
+                "url": "",
+                "descr": "Le site n'est pas opérationnel"
+            },
+            {
+                "id": "site-stats",
+                "title": "Site de Statistiques",
+                "name": "Statistiques",
+                "url": "",
+                "descr": "Le site n'est pas opérationnel"
+            },
+            {
+                "id": "site-gouv",
+                "title": "Site du Gouvernement",
+                "name": "Gouvernement",
+                "url": "",
+                "descr": "Le site n'est pas opérationnel"
+            }
+        ]
+    },
+    "discords": {
+        "id": "discords",
+        "title": "Serveurs Discord",
+        "content": [
+            {
+                "id": "serv-dby",
+                "name": "Dirtybiology",
+                "url": "https://discord.gg/ZwS3w5Tg4x",
+                "descr": "Serveur officiel de la chaine youtube Dirtybiology."
+            },
+            {
+                "id": "serv-rpdb",
+                "name": "RPDB",
+                "url": "https://discord.gg/6YEYMeVWvC",
+                "descr": "Serveur officiel du Dirtybiologistan et accueil des nouveaux arrivants, ici on tente de mettre en place un gouvernement stable avec une constitution stable et bien écrite. On organise aussi des événements et on aime bien mettre en avant les projets en rapport avec le Dirtybiologistan."
+            },
+            {
+                "id": "serv-oru",
+                "name": "ORU",
+                "url": "https://discord.gg/bznYx327WU",
+                "descr": "Aujourd’hui, le but de l’ORU est de coordonner les territoires, tant dans le dialogue lors de conflits que dans la transmission d’informations. L’ORU est pour les citoyens, par le biais des territoires. L’ORU va donc aider à transmettre les informations facilement grâce aux représentants en ce qui concerne la politique et grâce à des salons pour tous les événements."
+            },
+            {
+                "id": "serv-devs",
+                "name": "DBY Devs",
+                "url": "https://discord.gg/k9xy6FD5bv",
+                "descr": "Serveur des développeurs qui s'occupent des sites, des bots, des APIs de la micro-nation"
+            }
+        ]
+    }
+}
