@@ -54,6 +54,12 @@
                 "name": "DBY Devs",
                 "url": "https://discord.gg/k9xy6FD5bv",
                 "descr": "Serveur des développeurs qui s'occupent des sites, des bots, des APIs de la micro-nation."
+            },
+            {
+                "id": "serv-rens",
+                "name": "Centre de renseignement",
+                "url": "https://discord.gg/k9xy6FD5bv",
+                "descr": "Vous trouverez sur ce serveur discord tous les autres serveurs en lien avec le Dibistan."
             }
         ]
     }
