@@ -26,7 +26,7 @@
             },
             {
                 "id": "site-discords",
-                "title": "Liste des serveurs Discord",
+                "title": "Site listant les serveurs discord",
                 "name": "Discords",
                 "url": "https://discords.dirtybiologistan.com",
                 "descr": "Vous trouverez sur ce site la liste des serveurs discords liés à la micro-nation."
@@ -38,16 +38,10 @@
         "title": "Serveurs Discord",
         "content": [
             {
-                "id": "serv-dby",
-                "name": "Dirtybiology",
-                "url": "https://discord.gg/ZwS3w5Tg4x",
-                "descr": "Serveur officiel de la chaine youtube Dirtybiology."
-            },
-            {
                 "id": "serv-rpdb",
                 "name": "RPDB",
                 "url": "https://discord.gg/6YEYMeVWvC",
-                "descr": "Serveur officiel du Dirtybiologistan et accueil des nouveaux arrivants, ici on tente de mettre en place un gouvernement stable avec une constitution stable et bien écrite. On organise aussi des événements et on aime bien mettre en avant les projets en rapport avec le Dirtybiologistan."
+                "descr": "Serveur officiel du Dibistan et accueil des nouveaux arrivants, ici on tente de mettre en place un gouvernement stable avec une constitution stable et bien écrite. On organise aussi des événements et on aime bien mettre en avant les projets en rapport avec le Dibistan."
             },
             {
                 "id": "serv-oru",
@@ -59,7 +53,7 @@
                 "id": "serv-devs",
                 "name": "DBY Devs",
                 "url": "https://discord.gg/k9xy6FD5bv",
-                "descr": "Serveur des développeurs qui s'occupent des sites, des bots, des APIs de la micro-nation"
+                "descr": "Serveur des développeurs qui s'occupent des sites, des bots, des APIs de la micro-nation."
             }
         ]
     }
