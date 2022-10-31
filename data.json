@@ -38,8 +38,8 @@
         "title": "Serveurs Discord",
         "content": [
             {
-                "id": "serv-rpdb",
-                "name": "RPDB",
+                "id": "serv-rpd",
+                "name": "RPD",
                 "url": "https://discord.gg/6YEYMeVWvC",
                 "descr": "Serveur officiel du Dibistan et accueil des nouveaux arrivants, ici on tente de mettre en place un gouvernement stable avec une constitution stable et bien écrite. On organise aussi des événements et on aime bien mettre en avant les projets en rapport avec le Dibistan."
             },
@@ -58,7 +58,7 @@
             {
                 "id": "serv-rens",
                 "name": "Centre de renseignement",
-                "url": "https://discord.gg/k9xy6FD5bv",
+                "url": "https://discord.gg/BxQWzD6SMy",
                 "descr": "Vous trouverez sur ce serveur discord tous les autres serveurs en lien avec le Dibistan."
             }
         ]
